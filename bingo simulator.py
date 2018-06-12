@@ -1,7 +1,12 @@
 """
+
 Bingo program using python.
 Developed by :
-Naresh J, Btech - IT 'A'
+Naresh J
+Btech 'IT A'
+
+To-do : Implemenation of sockets module to play the game over the LAN if required.
+
 """
 
 import random
